@@ -1,0 +1,12 @@
+# macOS stuff
+.DS_Store
+
+# Cache files
+*cache*
+*.bkp
+*.dtmp
+
+# Generated graphs
+*.png
+*.txt
+*.xlsx
